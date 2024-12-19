@@ -1,11 +1,10 @@
 {
   "private": true,
-  "name": "emilia",
-  "description": "Minimalistic portfolio/photography site with masonry grid, page transitions and big images. Themeable with Theme UI. Includes Light/Dark mode.",
-  "version": "0.3.15",
-  "author": "LekoArts",
+  "name": "mira_life_journey_blog",
+  "description": "My blog and portfolio, (IT news, TIL..) many category, It can download my CV, Can using transfer language switch",
+  "version": "0.0.1",
+  "author": "Hanliang38",
   "license": "0BSD",
-  "starter-name": "gatsby-starter-portfolio-emilia",
   "scripts": {
     "build": "gatsby build",
     "develop": "gatsby develop",
